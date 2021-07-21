@@ -1,5 +1,5 @@
 public class Hello{
 	public static void main(String[] args){
-		System.out.println("你好喂喂3333喂");
+		System.out.println("4444");
 	}
 }
